@@ -1,0 +1,1 @@
+this folder will contain the core code for the application

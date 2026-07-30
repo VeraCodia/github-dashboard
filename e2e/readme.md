@@ -1,0 +1,1 @@
+this will have the e2e tests for the github dashboard application
