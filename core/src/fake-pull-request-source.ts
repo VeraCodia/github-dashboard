@@ -21,7 +21,7 @@ const sampleData: PullRequest[] = [
   {
     id: '5',
     title: 'PR5',
-    repo: 'Repo5',
+    repo: 'Repo hamza2',
   },
   { id: '6', title: 'PR6', repo: 'Repo6' },
 ];
